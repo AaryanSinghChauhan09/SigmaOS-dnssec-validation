@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-dnssec-validation"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS dnssec-validation component - networking"
+
+[lib]
+name = "dnssec_validation"
+path = "src/lib.rs"
