@@ -3,7 +3,7 @@ name = "SigmaOS-dnssec-validation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "dnssec-validation component"
+description = "DNSSEC Validation"
 upstream = []
 
 [contract]
